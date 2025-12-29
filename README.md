@@ -1,8 +1,8 @@
 # Yamuna Canal Rejuvenation – Power BI Project
 
 ## Project Overview
-Rivers in India are widely regarded as life-givers, sustaining communities, ecosystems, and livelihoods.  
-This project presents a **data-driven environmental analysis** of the Yamuna Canal, using official **CPCB water-quality monitoring data** to evaluate ecological stress, pollution trends, and priority intervention zones.
+Rivers in India are widely regarded as life-givers, sustaining communities, ecosystems and livelihoods.  
+This project presents a **data-driven environmental analysis** of the Yamuna Canal using official **CPCB water-quality monitoring data** to evaluate ecological stress, pollution trends and priority intervention zones.
 
 The goal of the project is to move beyond static reporting and enable **actionable insights** that support responsible rejuvenation and long-term environmental stewardship.
 
@@ -27,16 +27,16 @@ These parameters are evaluated against **national water-quality standards** to h
 ---
 
 ## Key Insights
-- Several canal stretches exhibit **critically low DO levels**, indicating stressed and degraded aquatic conditions.  
-- **BOD values significantly exceed permissible limits**, pointing to sustained organic pollution and untreated sewage inflow.  
-- **Total Coliform levels remain extremely high**, reflecting severe microbial contamination and unsafe water conditions.  
-- Pollution hotspots are spatially concentrated, enabling **targeted intervention rather than uniform action**.
+- Several canal stretches exhibit **critically low DO levels** indicating stressed and degraded aquatic conditions.  
+- **BOD values significantly exceed permissible limits** pointing to sustained organic pollution and untreated sewage inflow.  
+- **Total Coliform levels remain extremely high** reflecting severe microbial contamination and unsafe water conditions.  
+- Pollution hotspots are spatially concentrated enabling **targeted intervention rather than uniform action**.
 
 ---
 
 ## Tools & Technologies
 - **Power BI Desktop** – dashboard development and visualization  
-- **Power Query** – data extraction, cleaning, and transformation  
+- **Power Query** – data extraction, cleaning and transformation  
 - **DAX** – KPIs, compliance metrics, and trend analysis  
 - **LaTeX** – structured and professional report documentation  
 - **Environmental Data Analytics & Storytelling**
@@ -53,7 +53,7 @@ These parameters are evaluated against **national water-quality standards** to h
 
 ## Data Notes & Limitations
 - The analysis is based on **publicly available CPCB monitoring data**.  
-- Values reflect **reported and aggregated measurements**, not real-time conditions.  
+- Values reflect **reported and aggregated measurements** not real-time conditions.  
 - Seasonal and flow-based variations are not fully captured in annual aggregates.  
 
 These limitations are acknowledged to ensure **transparent and responsible interpretation**.
