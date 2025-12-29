@@ -46,7 +46,7 @@ These parameters are evaluated against **national water-quality standards** to h
 ## Repository Contents
 - Power BI Working File (`.pbix`)  
 - Power BI Dashboard (PDF export)  
-- Project Poster (PDF)  
+- Project Poster (PDF,prepared using LaTeX)  
 - Detailed Analytical Report (PDF, prepared using LaTeX)    
 
 ---
